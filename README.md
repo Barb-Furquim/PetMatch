@@ -1,6 +1,6 @@
-# Desafio "quebrado" quebra tudo vnw
+# PetMatch
 
-* PetMatch
+Desafio realizado em grupo proposto no curso Carreira Desenvolvedor Back End do Vai na Web.
 
 Descrição: PetMatch é uma plataforma para adoção de Gatos e Cachorros. Permitirmos que os usuários que desejam adotar novos amiguinhos utilizem filtros em suas pesquisas, buscando pets com base nas características de sua própria preferência e escolher aquele que mais faz sentido para você.
 
