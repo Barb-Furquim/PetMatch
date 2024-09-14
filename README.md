@@ -1,6 +1,6 @@
 # PetMatch 🐾
 
-Desafio realizado em grupo proposto no curso Carreira Desenvolvedor Back End do Vai na Web.
+Desafio realizado em grupo proposto no curso Carreira Desenvolvedor Back-End do Vai na Web.
 
 Desenvolvido em portugol para praticar lógica.
 
